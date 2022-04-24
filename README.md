@@ -17,6 +17,9 @@ https://v1.nocodeapi.com/pmanikoth/webflow/wtzODovSIJsRXhZg
 
 ## Sources
 List your sources here
+Satoshi-Font from Fontshare [https://www.fontshare.com/]
+Rounded edges help-ianrmedia [https://ianrmedia.unl.edu/resources/rounded-corners-images#:~:text=The%20CSS%20property%20border%2Dradius,an%20oval%20or%20a%20circle.]
+general coding questions-Google [google.com]
 
 ## Why Does This Exist? 
 Webflow (and many others) have a no-code CMS, and GUI for designing the templates. Webflow (and many others) also have an API that is accessible as a _headless CMS_. 
