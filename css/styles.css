@@ -1,4 +1,31 @@
 /* My Styles */
-image {
+body {
+    /*   adjusts the background */
+    /*   try and do a photo with light opacity for style */
+      background-image: url("https://i.imgur.com/2XLcz2G.png");
+    /*   background-color: maroon; */
+    }
     
-}
+    .gallery {
+    /*     this section here actually got my site to layout as intended */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+    
+    figure { 
+    /*   this alters the image-ish */
+    /*   Honestly might leave it out Doesnt really add anything */
+    /* max-height: 500px;
+    max-width: 600px; */
+    }
+    
+    img {
+    /*   this actually changed the image itself size */
+      max-height: 400px;
+    }
+    
+    figcaption { 
+    /*   this alters the sudent text */
+      font-size: 2em;
+    }
