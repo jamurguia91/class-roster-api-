@@ -31,6 +31,7 @@ body {
     figcaption { 
     /*   this alters the sudent text */
       font-size: 2em;
+      color: whitesmoke;
     }
 
     main {
