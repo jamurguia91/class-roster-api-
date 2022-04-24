@@ -1,4 +1,6 @@
 /* My Styles */
+@import url(satoshi.css); 
+
 body {
     /*   adjusts the background */
     /*   try and do a photo with light opacity for style */
@@ -31,6 +33,7 @@ body {
     figcaption { 
     /*   this alters the sudent text */
       font-size: 2em;
+      font-family: 'Satoshi-Regular';
       color: whitesmoke;
     }
 
