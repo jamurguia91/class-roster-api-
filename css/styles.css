@@ -27,7 +27,8 @@ body {
       max-height: 400px;
       /* border-radius: 65px, 5px, 5px, 65px; */
       border-radius: 25% 5% 25% 5%;
-      filter: grayscale(80%)
+      filter: grayscale(80%);
+      
     }
     
     figcaption { 
@@ -40,3 +41,11 @@ body {
     /* main {
         background: url("https://i.imgur.com/2XLcz2G.png") repeat;
     } */
+
+    img:hover {
+      /*   this actually changed the image itself size */
+        /* border-radius: 65px, 5px, 5px, 65px; */
+        border-radius: 25% 5% 25% 5%;
+        filter: grayscale(5%);
+        transition: 0.5s ease-in-out;
+      }
